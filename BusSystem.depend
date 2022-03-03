@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1645730519 source:d:\ãÔÇÑíÚ\bussystem\src\bus.cpp
+	"Bus.h"
+	<conio.h>
+
+1645730605 d:\ãÔÇÑíÚ\bussystem\include\bus.h
+	<iostream>
+
+1645727919 source:d:\ãÔÇÑíÚ\bussystem\main.cpp
+	<iostream>
+	<Bus.h>
+
+1645727919 source:d:\ãÔÇÑíÚ\eraasoft_brojects\bussystem\main.cpp
+	<iostream>
+	<Bus.h>
+
+1646244419 d:\ãÔÇÑíÚ\eraasoft_brojects\bussystem\include\bus.h
+	<iostream>
+
+1645730519 source:d:\ãÔÇÑíÚ\eraasoft_brojects\bussystem\src\bus.cpp
+	"Bus.h"
+	<conio.h>
+
